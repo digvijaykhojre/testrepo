@@ -1,0 +1,1 @@
+insert into user values (101,'Digvijay','password@123','Active');
